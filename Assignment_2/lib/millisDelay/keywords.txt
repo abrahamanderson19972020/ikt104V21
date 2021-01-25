@@ -1,3 +1,0 @@
-Timer   KEYWORD1
-setTimer    KEYWORD2
-on  KEYWORD2
